@@ -45,7 +45,7 @@
 
 **3)** файл Final_project_calories_predictions — ноутбук с рабочим кодом
 
-**4)** файл requirements — необходимые версие библиотек
+**4)** файл requirements — необходимые версии библиотек
 
 **Как использовать:** скачать репозиторий и запустить ноутбук (файл Final_project_calories_predictions).
 
